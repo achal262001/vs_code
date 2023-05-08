@@ -1,0 +1,28 @@
+*{}
+.red{
+    background-color:rgba(116, 203, 23, 0.329);
+    color:rgb(171, 12, 12);
+    height: 400px;
+    width: 50px;
+    display: inline-block;
+    text-align:center;
+    margin: 0;padding: 0;
+
+}
+.blue{color:blueviolet;
+    height: 50px;
+    width: 400px;
+    background-image: url("img/monkey.jpg");
+    background-size:contain; 
+    /* background-position:center; */
+    background-attachment:scroll;
+    background-repeat:repeat;
+    border: solid red;
+    color:rgb(27, 7, 129)
+    rgb(67, 8, 176);
+    text-align:center;
+    display:inline-block;
+} 
+body{
+    
+}
